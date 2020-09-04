@@ -1,0 +1,24 @@
+[submodule "decaton"]
+	path = decaton
+	url = https://github.com/kawamuray/decaton.git
+	branch = wasmton
+[submodule "rust"]
+	path = rust
+	url = https://github.com/kawamuray/rust.git
+	branch = wasi-socket
+[submodule "WebAssembly-WASI"]
+	path = WebAssembly-WASI
+	url = https://github.com/kawamuray/WebAssembly-WASI.git
+	branch = wasi-socket
+[submodule "wasi"]
+	path = wasi
+	url = https://github.com/kawamuray/wasi.git
+	branch = wasi-socket
+[submodule "wasmtime"]
+	path = wasmtime
+	url = https://github.com/kawamuray/wasmtime.git
+	branch = wasi-socket
+[submodule "wasmtime-java"]
+	path = wasmtime-java
+	url = https://github.com/kawamuray/wasmtime-java.git
+	branch = wasi-socket
